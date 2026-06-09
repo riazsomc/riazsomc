@@ -10,6 +10,7 @@ Working at the intersection of healthcare, information architecture, and secure 
 
 ## Recent Writing
 
+- [Toward a Bangla RAG System for Public Health: Motivation, Architecture, and Early Findings](https://w3datanet.com/insights/bangla-rag-public-health-bangladesh/))
 - [Ensuring Data Quality in Interoperable Health Systems: Validation and ICD-11 Postcoordination in Practice](https://w3datanet.com/insights/health-data-validation-icd11-postcoordination/)
 - [Building Digital Health Infrastructure in Bangladesh: Standards, Architecture, and Digital Public Goods](https://w3datanet.com/insights/digital-health-architecture-bangladesh/)
 - [ICD-11 Implementation in Bangladesh: Lessons from the First National Pilot](https://w3datanet.com/insights/icd-11-implementation-in-bangladesh/)
