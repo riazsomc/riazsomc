@@ -17,6 +17,10 @@ Working at the intersection of healthcare, information architecture, and secure 
 - [Health Data Quality: Beyond Systems, Toward Ownership](https://w3datanet.com/insights/health-data-quality-ownership/)
 - [Bangladesh HRIS: Design of a Living Health Workforce Registry](https://w3datanet.com/insights/bangladesh-hris-architecture/)
 
+## Technical Reports
+
+- [Toward a Bangla RAG Framework for Public Health: Design and Preliminary Evaluation](https://doi.org/10.5281/zenodo.17445739) — DOI: 10.5281/zenodo.17445739
+
 ## Areas of Work
 
 - Digital Health & Health Information Systems
